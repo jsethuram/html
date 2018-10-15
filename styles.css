@@ -1,0 +1,40 @@
+
+  h1 {
+    color : blue;
+    text-align: center;
+  }
+
+  p {
+    color: red;
+    text-align: left;
+  }
+
+  div {
+    background-color: yellow;
+    text-align: left;
+    font-family:Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 30px dotted blue;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    padding: 20px;
+  }
+
+  #top {
+    color: orange;
+  }
+
+  #middle {
+    color: purple;
+  }
+
+  #bottom {
+    color: red;
+    border: 30px solid blue;
+  }
+
+  .name {
+    font-style: italic;
+  }
